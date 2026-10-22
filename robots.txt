@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usabeef.switchtoamerica.com/sitemap.xml
